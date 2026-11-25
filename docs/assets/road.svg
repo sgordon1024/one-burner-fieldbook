@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 580" role="img" aria-labelledby="title">
+<title id="title">A small camper passing through a desert at sunset, drawn like a vintage travel print</title>
+<defs><pattern id="paper" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".6" fill="#522d27" opacity=".27"/><circle cx="5" cy="5" r=".55" fill="#fff3c9" opacity=".55"/></pattern><clipPath id="frame"><rect width="920" height="580"/></clipPath><clipPath id="sun"><circle cx="554" cy="212" r="148"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="920" height="580" fill="#e7a768"/>
+<circle cx="554" cy="212" r="148" fill="#ffda83"/>
+<g clip-path="url(#sun)" stroke="#e7a768" stroke-width="8" opacity=".7"><path d="M390 213h330m-330 20h330m-330 23h330m-330 28h330m-330 31h330"/></g>
+<path d="M-25 329 89 235l49-5 25-32 95-7 46 46 90 2 62 58 92 22 114-43 70-16 47-86 69-13 90 22v397H-25Z" fill="#cc744d"/>
+<path d="m-30 385 103-47 84-11 53-46 107-4 60 39 107 22 106-37 75 3 101 27 180-33v282H-30Z" fill="#9b493c"/>
+<path d="M-20 397c224 19 313-39 460-29 152 11 307 91 503-19v231H-20Z" fill="#503632"/>
+<path d="M510 382c68 19 186 34 123 54-51 16-226 32-122 75l159 69H226c-95-58-99-109 68-126 228-25 288-36 201-71z" fill="#df9461"/>
+<path d="M505 386c150 43 31 48-131 73-115 18-71 62 68 121" fill="none" stroke="#ffe093" stroke-width="4" stroke-dasharray="13 14" opacity=".9"/>
+<g fill="#362d27" stroke="#362d27" stroke-linecap="round"><path d="M123 493v-98m0 50h-18v-21m18 9h20v-30M779 490V367m0 47h31v-30m-31 55h-28v-27" fill="none" stroke-width="9"/><path d="m75 517 13-21 6 18 13-15 1 18m731-45 18-18 2 17 18-9 3 11m-707 72 11-17 6 12 10-18 5 20z" stroke-width="3"/></g>
+<ellipse cx="382" cy="493" rx="136" ry="17" fill="#462d26" opacity=".53"/>
+<g stroke="#382d26" stroke-width="5" stroke-linejoin="round"><path d="M259 468v-61q0-16 20-17l131-3 23 11 42 39 19 6 7 20-4 19H262z" fill="#f2d5a2"/><path d="m260 455 227-2 12 10-5 19H263z" fill="#858a64"/><path d="m445 412 29 27-53 1v-28zM286 410h104v25H286z" fill="#526052"/><path d="M402 393v73m-126-78 34-9h86l20 8" fill="none"/><path d="M302 376h83l9 7h-99z" fill="#7c8265"/><path d="M290 446h29m94 3h14" fill="none" stroke-width="3"/><circle cx="303" cy="478" r="19" fill="#392f29"/><circle cx="455" cy="478" r="19" fill="#392f29"/><circle cx="303" cy="478" r="8" fill="#d4b58e" stroke-width="2"/><circle cx="455" cy="478" r="8" fill="#d4b58e" stroke-width="2"/><path d="M486 445h8v9h-10" fill="#ffe29c" stroke-width="3"/></g>
+<path d="M202 116q10-9 20 0 8-8 20-3m29 18q8-7 15 1 8-7 17-2" fill="none" stroke="#673e33" stroke-width="3" stroke-linecap="round"/>
+<rect width="920" height="580" fill="url(#paper)" opacity=".6"/>
+</g></svg>
